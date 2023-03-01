@@ -41,8 +41,6 @@ ECHO DISCLAIMER:
 ECHO Shortly some message boxes will pop up. You have to accept them in order to close.
 ECHO Dont close the program! It will close itself when the task is done.
 ECHO ============================
-ECHO 
-ECHO 
 
 PAUSE
 
