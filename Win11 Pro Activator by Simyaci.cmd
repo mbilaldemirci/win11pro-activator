@@ -6,7 +6,7 @@
 color 4
 
 ECHO ==========================
-ECHO Simyaci Win 11 Pro Aktivasyon Crack
+ECHO Simyaci Win 11 Pro Activator
 ECHO ==========================
 
 color 4
@@ -37,9 +37,10 @@ ECHO           ""9@#####@M""           ""P@#####@M""
 
 
 ECHO ============================
-ECHO Onemli Not: 
-ECHO Az sonra kurulum islemi sirasinda bazi pencereler acilacak bu pencereleri onaylayarak kapatmaniz gerekmekte!
-ECHO 10 Saniye icerisinde islemler baslayacak!
+ECHO DISCLAIMER: 
+ECHO Shortly some message boxes will pop up. You have to accept them in order to close.
+ECHO Dont close the program! It will close itself when the task is done.
+ECHO Process will start within 10 seconds.
 ECHO ============================
 
 
@@ -71,5 +72,7 @@ TIMEOUT /T 4
 
 
 START https://instagram.com/mbilaldemirci
+
+ECHO You can close this windows now!
 
 PAUSE
