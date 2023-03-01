@@ -40,11 +40,9 @@ ECHO ============================
 ECHO DISCLAIMER: 
 ECHO Shortly some message boxes will pop up. You have to accept them in order to close.
 ECHO Dont close the program! It will close itself when the task is done.
-ECHO Process will start within 10 seconds.
 ECHO ============================
-
-
-TIMEOUT /T 10
+ECHO 
+ECHO 
 
 PAUSE
 
